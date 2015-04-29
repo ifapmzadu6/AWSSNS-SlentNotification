@@ -1,0 +1,4 @@
+{
+    "default": "default",
+    "APNS": "{\"aps\":{ \"content-available\": 1, \"sound\": \"\", \"priority\": 10}}"
+}
